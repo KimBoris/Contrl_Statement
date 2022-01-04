@@ -186,7 +186,7 @@ INPUT:
 
 
 //[C언어에서 goto문을 간혹 쓰는경우]
-
+//ERROR를 띄울때
 
 int nAge = 0;
 printf("나이를 입력하세요 : ");
